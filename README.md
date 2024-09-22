@@ -6,9 +6,6 @@
 
 - 📫 Feel free to connect: via GitHub or reach out through my [LinkedIn profile] ((https://www.linkedin.com/in/gowthamguna03/)).
 
-- ⚡ Fun fact: I enjoy solving coding challenges in my free time!
-
-
 
 Technical Skills 🚀
 
