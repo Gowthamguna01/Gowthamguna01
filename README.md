@@ -7,7 +7,6 @@
 - 📫 Feel free to connect: via GitHub or reach out through my [LinkedIn profile] ((https://www.linkedin.com/in/gowthamguna03/)).
 
 
-Technical Skills 🚀
 
 **Languages:** Python 🐍, JavaScript 🌐
 **Frameworks:** Django 🕸️, jQuery 📜, Bootstrap 🎨
