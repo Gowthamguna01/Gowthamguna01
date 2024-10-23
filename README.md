@@ -1,6 +1,6 @@
 👋 Hi, I’m @Gowthamguna01 🦄
 
-- 👀 I’m passionate about coding, especially in JavaScript and Python. As a Python full-stack developer, I love building dynamic applications that enhance user experience.
+- 👀 I’m passionate about coding, especially in Java, JavaScript and Python. As a Passionate full-stack developer, I love building dynamic applications that enhance user experience.
   
 - 🌱 I’m currently learning new frameworks and technologies to deepen my understanding of web development and expand my skill set.
 
@@ -8,8 +8,8 @@
 
 
 
-**Languages:** Python 🐍, JavaScript 🌐
-**Frameworks:** Django🦋 , jQuery📜, Bootstrap 🎨
+**Languages:** Java 🗿, Python 🐍, JavaScript 🌐, 
+**Frameworks:** Django🦋 , jQuery📜, Bootstrap 🎨, Angular🌠, Springboot✨
 
 **Databases:** MySQL 💾
 **APIs:** REST API 🔗
