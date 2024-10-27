@@ -9,7 +9,7 @@
 
 
 **Languages:** Java 🗿, Python 🐍, JavaScript 🌐, 
-**Frameworks:** Django🦋 , jQuery📜, Bootstrap 🎨, Angular🌠, Springboot✨
+**Frameworks:** Django🦋 , jQuery📜, Bootstrap 🎨
 
 **Databases:** MySQL 💾
 **APIs:** REST API 🔗
