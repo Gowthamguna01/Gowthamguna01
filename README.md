@@ -10,6 +10,7 @@
 
 
 
+
 **Languages:** Python 🐍, JavaScript 🌐, 
 
 **Frameworks:** Django, jQuery📜, Bootstrap 🎨
