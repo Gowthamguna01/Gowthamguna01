@@ -1,4 +1,4 @@
-👋 Hi, I’m @Gowthamguna01 🦄
+👋 Hi, I’m @Gowthamguna01 🦄. iam from Erode, Tamilnadu, INDIA.
 
 - 👀 I’m passionate about coding, especially in Java, JavaScript and Python. As a Passionate full-stack developer, I love building dynamic applications that enhance user experience.
   
