@@ -11,8 +11,10 @@
 
 
 **Languages:** Python 🐍, JavaScript 🌐, 
+
 **Frameworks:** Django, jQuery📜, Bootstrap 🎨
 
 **Databases:** MySQL 💾
+
 **APIs:** REST API 🔗
 
