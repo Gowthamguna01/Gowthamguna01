@@ -12,9 +12,11 @@
 
 
 
-**Languages:** Python 🐍, JavaScript 🌐, 
+**Languages:** Python 🐍, JavaScript 🌐
 
 **Frameworks:** Django, jQuery📜, Bootstrap 🎨
+
+**WebTechnologies:** HTML5, CSS3🖼
 
 **Databases:** MySQL 💾
 
