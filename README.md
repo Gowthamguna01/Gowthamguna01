@@ -1,7 +1,7 @@
                                                              PYTHON FULL-STACK DEVELOPER
 👋 Hi, I’m Gowtham from Erode, TamilNadu, INDIA. I am a recent graduate with a bachelor's degree.
 
-- I’m passionate about coding, especially in Python and Javascript. I have a strong interest in Python Full-Stack Development, and iam eager to contribute my knowledge and dedication to any team i join.
+- I’m passionate about coding, especially in Python and Javascript. I have a strong knowledge in Python Full-Stack Development, and iam eager to contribute my knowledge and dedication to any team i join.
   
 - 🌱 I’m currently learning new frameworks and technologies to deepen my understanding of web development and expand my skill set.
 
