@@ -12,13 +12,15 @@
 
 
 
-**Languages:** Python 🐍, JavaScript 🌐
+**Languages:** Python 🐍, JavaScript 🌐, PHP 🐘
 
-**Frameworks:** Django, jQuery📜, Bootstrap 🎨
+**Frameworks:** Django🚀, jQuery📜, Bootstrap 🎨, Laravel ⚡
 
 **WebTechnologies:** HTML5, CSS3🖼
 
 **Databases:** MySQL 💾
 
 **APIs:** REST API 🔗
+
+**Tools:** Docker 🐳
 
