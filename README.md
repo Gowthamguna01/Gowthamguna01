@@ -1,4 +1,4 @@
-                                                             PYTHON FULL-STACK DEVELOPER
+                                                        PYTHON FULL-STACK DEVELOPER
                                                              
 👋 Hi, I’m Gowtham from TamilNadu, INDIA. I am a recent graduate with a bachelor's degree.
 
