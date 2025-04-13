@@ -3,13 +3,11 @@
 👋 Hi, I’m Gowtham from INDIA. 
 
 - I’m passionate about coding, especially in Python Django and Laravel.
-- 📫 Feel free to connect: LinkedIn | https://www.linkedin.com/in/gowthamguna03/
-- Gmail | gowthamguna46@gmail.com 
+- 📫 Feel free to connect:  Gmail | gowthamguna46@gmail.com 
 
 
 
                                                          SKILLS
-
 
 **Languages:** Python 🐍, JavaScript 🌐, PHP 🐘
 
