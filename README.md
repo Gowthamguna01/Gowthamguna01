@@ -1,6 +1,6 @@
                                                       PYTHON FULL-STACK DEVELOPER
                                                              
-👋 Hi, I’m Gowtham from TamilNadu, INDIA. I am a recent graduate with a bachelor's degree.
+👋 Hi, I’m Gowtham from INDIA. I am a recent graduate with a bachelor's degree.
 
 - I’m passionate about coding, especially in Python Django and Laravel.
   
