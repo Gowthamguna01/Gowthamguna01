@@ -9,9 +9,9 @@
 
                                                          SKILLS
 
-**Languages:** Python 🐍, JavaScript 🌐, PHP 🐘
+**Languages:** Python🐍, JavaScript🌐, PHP🐘
 
-**Frameworks:** Django🚀, jQuery📜, Bootstrap , Laravel ⚡, Vue.JS
+**Frameworks:** Django🚀, jQuery📜, Bootstrap , Laravel⚡, Vue.js🏎
 
 **WebTechnologies:** HTML5, CSS3🖼 , Tailwind CSS🎨
 
