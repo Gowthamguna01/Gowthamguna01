@@ -11,9 +11,9 @@
 
 **Languages:** Python 🐍, JavaScript 🌐, PHP 🐘
 
-**Frameworks:** Django🚀, jQuery📜, Bootstrap 🎨, Laravel ⚡, 
+**Frameworks:** Django🚀, jQuery📜, Bootstrap , Laravel ⚡, Vue.JS
 
-**WebTechnologies:** HTML5, CSS3🖼 , Tailwind CSS
+**WebTechnologies:** HTML5, CSS3🖼 , Tailwind CSS🎨
 
 **Databases:** MySQL 💾
 
