@@ -5,11 +5,9 @@
 
 ---
 
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/gowthamguna) |  
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/gowthamguna) | [Gmail](gowthamguna46@gmail.com)
 
----
 
-Let's **connect & collaborate**! 🚀  
 
                                                          SKILLS
 
