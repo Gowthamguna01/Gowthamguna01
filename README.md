@@ -1,11 +1,15 @@
                                                       PYTHON FULL-STACK DEVELOPER
-                                                             
-👋 Hi, I’m Gowtham.
+## Hi there! 👋 I'm Gowtham  
 
-- I’m passionate about coding, especially in Python Django and Laravel + Vue js.
-- 📫 Feel free to connect:  Gmail | gowthamguna46@gmail.com 
+🚀 **Software Engineer | C++ | PHP | Python | Vue.js **  
 
+---
 
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/gowthamguna) |  
+
+---
+
+Let's **connect & collaborate**! 🚀  
 
                                                          SKILLS
 
