@@ -1,8 +1,8 @@
                                                       PYTHON FULL-STACK DEVELOPER
                                                              
-👋 Hi, I’m Gowtham from INDIA. 
+👋 Hi, I’m Gowtham.
 
-- I’m passionate about coding, especially in Python Django and Laravel.
+- I’m passionate about coding, especially in Python Django and Laravel + Vue js.
 - 📫 Feel free to connect:  Gmail | gowthamguna46@gmail.com 
 
 
