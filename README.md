@@ -1,7 +1,7 @@
                                                       PYTHON FULL-STACK DEVELOPER
 ## Hi there! 👋 I'm Gowtham  
 
-🚀 **Software Engineer** | Python | PHP | laravel |  Vue.js
+🚀 **Software Engineer** | **Python** | **Django** | **Laravel** | **Vue.js**
 
 ---
 
