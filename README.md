@@ -7,7 +7,7 @@
 🚀 **Versatile full-stack developer** with expertise in both Python/Django and PHP/Laravel ecosystems. I specialize in building:
 - High-performance backend systems with **Django REST Framework** and **Laravel**
 - Modern, reactive frontends with **Vue.js** and **Tailwind CSS**
-- Scalable applications with clean architecture and intuitive UX
+
 
 ## 🛠 Core Competencies
 
