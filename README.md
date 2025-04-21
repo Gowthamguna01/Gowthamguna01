@@ -28,14 +28,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker)
 
-## 🏆 Featured Projects
 
-### 1. [Django REST](https://github.com/Gowthamguna01/project1)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django) 
-Crud Operation
-
-### 2. [Laravel + Vue Js](https://github.com/Gowthamguna01/project2)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs)  
-Custom CMS with role-based authentication
 
 
