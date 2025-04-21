@@ -39,10 +39,3 @@ Crud Operation
 Custom CMS with role-based authentication
 
 
-## 📫 Let's Collaborate!
-I'm always interested in:
-- Full-stack development opportunities
-- Technical discussions
-
-[![LinkedIn](https://img.shields.io/badge/-Let's%20connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gowthamguna)
-[![Email](https://img.shields.io/badge/-Shoot%20me%20an%20email-red?style=for-the-badge&logo=gmail)](mailto:gowthamguna46@gmail.com)
