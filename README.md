@@ -34,8 +34,8 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django) 
 Crud Operation
 
-### 2. [Laravel API + Vue Admin](https://github.com/Gowthamguna01/project2)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens)  
+### 2. [Laravel + Vue Js](https://github.com/Gowthamguna01/project2)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs)  
 Custom CMS with role-based authentication
 
 
