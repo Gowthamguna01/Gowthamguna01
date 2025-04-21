@@ -13,9 +13,9 @@
 
 ### 🔧 Backend Expertise
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/Django-Expert-092E20?style=flat-square&logo=django)
+![Django](https://img.shields.io/badge/Django-Intermediate-092E20?style=flat-square&logo=django)
 ![Laravel](https://img.shields.io/badge/Laravel-Advanced-FF2D20?style=flat-square&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-Advanced-777BB4?style=flat-square&logo=php)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?style=flat-square&logo=php)
 ![REST APIs](https://img.shields.io/badge/REST_API-Expert-FF6B6B?style=flat-square&logo=json)
 
 ### 🌟 Frontend Mastery
