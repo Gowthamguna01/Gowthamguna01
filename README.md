@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Gowtham - Full-Stack Developer (Python/Django + Laravel/Vue.js)
+# 👨‍💻 Hi, I'm Gowtham
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gowthamguna)
 [![Email](https://img.shields.io/badge/-gowthamguna46@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:gowthamguna46@gmail.com)
@@ -37,14 +37,6 @@ Full-featured online store with payment integration
 ### 2. [Laravel API + Vue Admin](https://github.com/Gowthamguna01/project2)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens)  
 Custom CMS with role-based authentication
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gowthamguna&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamguna&layout=compact&langs_count=8&theme=radical&hide=html,css"/>
-  <img height="165em" src="https://streak-stats.demolab.com/?user=gowthamguna&theme=radical"/>
-</div>
 
 
 ## 📫 Let's Collaborate!
