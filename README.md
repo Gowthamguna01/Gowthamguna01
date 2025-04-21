@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gowthamguna)
 [![Email](https://img.shields.io/badge/-gowthamguna46@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:gowthamguna46@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Follow%20my%20work-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/-Follow%20my%20work-black?style=for-the-badge&logo=github)](https://github.com/Gowthamguna01)
 
 🚀 **Versatile full-stack developer** with expertise in both Python/Django and PHP/Laravel ecosystems. I specialize in building:
 - High-performance backend systems with **Django REST Framework** and **Laravel**
