@@ -30,9 +30,9 @@
 
 ## 🏆 Featured Projects
 
-### 1. [Django REST + Vue.js E-commerce](https://github.com/Gowthamguna01/project1)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe)  
-Full-featured online store with payment integration
+### 1. [Django REST](https://github.com/Gowthamguna01/project1)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django) 
+Crud Operation
 
 ### 2. [Laravel API + Vue Admin](https://github.com/Gowthamguna01/project2)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens)  
@@ -42,7 +42,6 @@ Custom CMS with role-based authentication
 ## 📫 Let's Collaborate!
 I'm always interested in:
 - Full-stack development opportunities
-- Open source contributions
 - Technical discussions
 
 [![LinkedIn](https://img.shields.io/badge/-Let's%20connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gowthamguna)
