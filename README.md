@@ -22,40 +22,30 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-Advanced-4FC08D?style=flat-square&logo=vuedotjs)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-Advanced-06B6D4?style=flat-square&logo=tailwindcss)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify)
+
 
 ### 🗃 Data & Deployment
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-4169E1?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker)
 
 ## 🏆 Featured Projects
 
-### 1. [Laravel+Vue SaaS Platform](https://github.com/yourusername/project1)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss)  
-A complete SaaS solution with subscription billing and admin dashboard
-
-### 2. [Django REST + Vue.js E-commerce](https://github.com/yourusername/project2)
+### 1. [Django REST + Vue.js E-commerce](https://github.com/Gowthamguna01/project1)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe)  
 Full-featured online store with payment integration
 
-### 3. [Laravel API + Vue Admin](https://github.com/yourusername/project3)
+### 2. [Laravel API + Vue Admin](https://github.com/Gowthamguna01/project2)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens)  
 Custom CMS with role-based authentication
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical&hide=html,css"/>
-  <img height="165em" src="https://streak-stats.demolab.com/?user=yourusername&theme=radical"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gowthamguna&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamguna&layout=compact&langs_count=8&theme=radical&hide=html,css"/>
+  <img height="165em" src="https://streak-stats.demolab.com/?user=gowthamguna&theme=radical"/>
 </div>
 
-## 🚀 Latest Blog Posts
-<!-- Uncomment if you have a blog -->
-<!-- 1. [Optimizing Vue.js Performance in Laravel Applications](link) -->
-<!-- 2. [Django vs Laravel: When to Use Each](link) -->
-<!-- 3. [Building a CRUD App with Vue.js and Django REST](link) -->
 
 ## 📫 Let's Collaborate!
 I'm always interested in:
