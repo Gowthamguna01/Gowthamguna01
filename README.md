@@ -1,4 +1,4 @@
-# Hi, I'm Gowthamguna
+# Hi, I'm Gowtham
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gowthamguna)
 [![Email](https://img.shields.io/badge/-Connect%20on%20Mail-red?style=for-the-badge&logo=gmail)](mailto:gowthamguna46@gmail.com)
