@@ -25,21 +25,21 @@
 ## 🛠 Core Competencies
 
 ### 🔧 Backend Expertise
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/Django-Intermediate-092E20?style=flat-square&logo=django)
-![Laravel](https://img.shields.io/badge/Laravel-Advanced-FF2D20?style=flat-square&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?style=flat-square&logo=php)
-![REST APIs](https://img.shields.io/badge/REST_API-Expert-FF6B6B?style=flat-square&logo=json)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
+![REST APIs](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logo=json)
 
 ### 🌟 Frontend Mastery
-![Vue.js](https://img.shields.io/badge/Vue.js-Advanced-4FC08D?style=flat-square&logo=vuedotjs)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-Advanced-06B6D4?style=flat-square&logo=tailwindcss)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
 
 
 ### 🗃 Data & Deployment
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 
 
 
