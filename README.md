@@ -21,8 +21,20 @@
 
 ## 🛠 Core Competencies
 
-<div align="center"> <table> <tr> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/><br/> <b>Python</b> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/><br/> <b>Django</b> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel"/><br/> <b>Laravel</b> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/><br/> <b>PHP</b> </td> </tr> <tr> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/><br/> <b>Vue.js</b> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/><br/> <b>JavaScript</b> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS"/><br/> <b>Tailwind CSS</b> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/><br/> <b>MySQL</b> </td> </tr> <tr> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/><br/> <b>Docker</b> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" width="40" alt="REST API"/><br/> <b>REST APIs</b> </td> </tr> </table> </div>
+## Backend Expertise  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()  
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)]()  
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)]()  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()  
+[![REST APIs](https://img.shields.io/badge/REST%20API-FF6B6B?style=flat&logo=json&logoColor=white)]()
 
+## 🎨 Frontend Toolkit  
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)]()  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()  
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)]()
 
+## 🗄️ Data & DevOps  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)]()  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)]()
 
 
