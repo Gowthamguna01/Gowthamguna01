@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gowthamguna)
 [![Email](https://img.shields.io/badge/-Connect%20on%20Mail-red?style=for-the-badge&logo=gmail)](mailto:gowthamguna46@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Follow%20my%20work-black?style=for-the-badge&logo=github)](https://github.com/Gowthamguna01)
+
 
 🚀 **Versatile full-stack developer** with expertise in both Python/Django and PHP/Laravel ecosystems. I specialize in building:
 - High-performance backend systems with **Django REST Framework** and **Laravel**
@@ -21,7 +21,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B6B?style=flat&logo=json&logoColor=white)
 
 ### 🌟 Frontend Mastery
