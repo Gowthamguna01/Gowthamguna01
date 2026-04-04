@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/-Connect%20on%20Mail-red?style=for-the-badge&logo=gmail)](mailto:gowthamguna46@gmail.com)
 
 
-🚀 **Versatile full-stack developer** with expertise in both Python/Django and PHP/Laravel ecosystems. I specialize in building:
+🚀 **Versatile full-stack developer** with expertise in PHP/Laravel ecosystems. I specialize in building:
 - High-performance backend systems with **PHP** and **Laravel**
 - Modern, reactive frontends with **Vue.js** and **Tailwind CSS**
 
