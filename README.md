@@ -14,8 +14,9 @@
   <img src="https://vuejs.org/images/logo.png" width="100" alt="Vue.js Logo">
 </a></p>
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="100">
-
+<a href="https://jquery.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="60" alt="jQuery Logo">
+  </a>
 
 
 ### 🗄 Database & Tools
