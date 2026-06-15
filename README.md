@@ -15,7 +15,7 @@
 </a></p>
 
 <a href="https://jquery.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="60" alt="jQuery Logo">
+    <img src="[https://cdn-icons-png.flaticon.com/512/5968/5968292.png](https://jquery.com/wp-content/themes/jquery.com/i/favicon.ico)" height="60" alt="jQuery Logo">
   </a>
 
 
