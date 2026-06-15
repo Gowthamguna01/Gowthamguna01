@@ -12,11 +12,11 @@
 
 <a href="https://vuejs.org" target="_blank">
   <img src="https://vuejs.org/images/logo.png" width="100" alt="Vue.js Logo">
-</a></p>
+</a>
 
 <a href="https://jquery.com" target="_blank">
     <img src="https://jquery.com/wp-content/themes/jquery.com/i/favicon.ico" height="60" alt="jQuery Logo">
-  </a>
+</a></p>
 
 
 ### 🗄 Database & Tools
