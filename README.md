@@ -8,19 +8,7 @@
 - High-performance backend systems with **PHP** and **Laravel**
 - Modern, reactive frontends with **Vue.js** and **Tailwind CSS**
 
-<p align="center">
-  <a href="https://laravel.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width=100%" alt="Laravel Logo">
-  </a>
-
-  <a href="https://vuejs.org" target="_blank">
-    <img src="https://vuejs.org/images/logo.png" width=100%" alt="Vue.js Logo">
-  </a>
-
-  <a href="https://jquery.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width=100%" alt="jQuery Logo">
-  </a>
-</p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a> <a href="https://vuejs.org" target="_blank"> <img src="https://vuejs.org/images/logo.png" width="100" alt="Vue.js Logo"> </a></p>
 
 
 ### 🗄 Database & Tools
