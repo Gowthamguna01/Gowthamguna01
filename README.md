@@ -9,15 +9,17 @@
 - Modern, reactive frontends with **Vue.js** and **Tailwind CSS**
 
 <p align="center">
-  <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a> 
+  <a href="https://laravel.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" height="60" style="margin: 0 20px;" alt="Laravel Logo">
+  </a>
 
-<a href="https://vuejs.org" target="_blank">
-  <img src="https://vuejs.org/images/logo.png" width="100" alt="Vue.js Logo">
-</a>
+  <a href="https://vuejs.org" target="_blank">
+    <img src="https://vuejs.org/images/logo.png" height="60" style="margin: 0 20px;" alt="Vue.js Logo">
+  </a>
 
-<a href="https://jquery.com" target="_blank">
-    <img src="https://jquery.com/wp-content/themes/jquery.com/i/favicon.ico" width="100" class="pl-4" alt="jQuery Logo">
-</a>
+  <a href="https://jquery.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="60" style="margin: 0 20px;" alt="jQuery Logo">
+  </a>
 </p>
 
 
